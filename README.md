@@ -35,6 +35,16 @@
     <li>Geographic Information Systems (GIS)</li>
 </ul>
 
+<h3>Currently Learning</h3>
+
+<ul>
+    <li>Machine Learning</li>
+    <li>Go</li>
+    <li>Javascript</li>
+    <li>Rust</li>
+</ul>
+
+
 <h3>About Me</h3>
 <p>
     I am an experienced software developer with a particular interest in the intersection of geographic information systems (GIS) and data science.
@@ -47,12 +57,3 @@
 <p>
     I am adaptable and continuously expanding my knowledge of the state of the art when it comes to scientific and numerical computing, and I am eager to apply this knowledge to challenging research software engineering roles.
 </p>
-
-<h3>Currently Learning</h3>
-
-<ul>
-    <li>Machine Learning</li>
-    <li>Go</li>
-    <li>Javascript</li>
-    <li>Rust</li>
-</ul>
