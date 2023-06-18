@@ -33,6 +33,7 @@
     <li>C++</li></li>
     <li>Data Analysis</li>
     <li>Geographic Information Systems (GIS)</li>
+    <li>SQL</li>
 </ul>
 
 <h3>Currently Learning</h3>
