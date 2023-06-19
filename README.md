@@ -56,5 +56,6 @@
     <li>Machine Learning</li>
     <li>Go</li>
     <li>Javascript</li>
+    <li>Kotlin</li>
     <li>Rust</li>
 </ul>
