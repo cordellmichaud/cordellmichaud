@@ -37,11 +37,13 @@
 <ul>
     <li>
         <em>Master of Computer Science</em><br>
-        Arizona State University, degree anticipated Fall 2024
+        Arizona State University<br>
+        Degree anticipated Fall 2024
     </li>
     <li>
         <em>Bachelor of Science in Computer Science</em><br>
-        Arizona State University, Spring 2021
+        Arizona State University<br>
+        Spring 2021
     </li>
 </ul>
 
