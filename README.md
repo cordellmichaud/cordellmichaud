@@ -1,4 +1,4 @@
-<h2>Hey, I'm Cordell Michaud! (he/him)</h2>
+<h2>Hey, I'm Cordell Michaud!</h2>
 
 <!--
 <img align="right" width="460" height="460" src="res/michaudcordell_avatar.png">
@@ -7,7 +7,7 @@
 
 <h3>About Me</h3>
 <p>
-    I am a software developer with particular interest in scientific computing.
+    I am a software developer passionate about scientific computing.
 </p>
 
 <p>
@@ -22,13 +22,20 @@
 
 <ul>
     <li>
-        <em>Software Application Associate</em> at <a href="https://www.lroc.asu.edu/">Lunar Reconnaissance Orbiter Camera Science Operations Center (LROC)</a><br>
-        School of Earth and Space Exploration, Arizona State University<br>
-        June 2021 - Present
+        <em>Software Developer</em> at <a href="https://www.intuitivemachines.com/">Intuitive Machines</a><br>
+        Phoenix, Arizona<br>
+        September 2024 - Present
     </li>
     <li>
-        <em>Student Developer</em> at <a href="https://www.lroc.asu.edu/">Lunar Reconnaissance Orbiter Camera Science Operations Center (LROC)</a><br>
+        <em>Software Application Associate</em> at <a href="https://www.lroc.asu.edu/">Lunar Reconnaissance Orbiter Camera Science Operations Center</a> and <a href="https://www.shadowcam.asu.edu/">ShadowCam Science Operations Center</a><br>
         School of Earth and Space Exploration, Arizona State University<br>
+        Tempe, Arizona<br>
+        June 2021 - September 2024
+    </li>
+    <li>
+        <em>Student Developer</em> at <a href="https://www.lroc.asu.edu/">Lunar Reconnaissance Orbiter Camera Science Operations Center</a><br>
+        School of Earth and Space Exploration, Arizona State University<br>
+        Tempe, Arizona<br>
         July 2019 - May 2021
     </li>
 </ul>
@@ -55,14 +62,4 @@
     <li>Data Analysis</li>
     <li>Geographic Information Systems (GIS)</li>
     <li>SQL</li>
-</ul>
-
-<h3>Currently Learning</h3>
-
-<ul>
-    <li>Machine Learning</li>
-    <li>Go</li>
-    <li>Javascript</li>
-    <li>Kotlin</li>
-    <li>Rust</li>
 </ul>
