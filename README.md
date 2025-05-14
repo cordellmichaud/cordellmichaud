@@ -23,7 +23,7 @@
         September 2024 - Present
     </li>
     <li>
-        <em>Software Application Associate</em> at <a href="https://www.lroc.asu.edu/">Lunar Reconnaissance Orbiter Camera Science Operations Center</a> and <a href="https://www.shadowcam.asu.edu/">ShadowCam Science Operations Center</a><br>
+        <em>Software Application Associate</em> at <a href="https://www.lroc.asu.edu/">Lunar Reconnaissance Orbiter Camera</a>/<a href="https://www.shadowcam.asu.edu/">ShadowCam</a> Science Operations Center<br>
         School of Earth and Space Exploration, Arizona State University<br>
         Tempe, Arizona<br>
         June 2021 - September 2024
