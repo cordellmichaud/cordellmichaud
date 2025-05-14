@@ -7,15 +7,11 @@
 
 <h3>About Me</h3>
 <p>
-    I am a software developer passionate about scientific computing.
+    I am a detail-oriented scientific software engineer with 4+ years of experience engineering software solutions to tackle complex research problems in geographic information systems, remote sensing, and image processing for space missions.
 </p>
-
+    I have substantial experience working in multidisciplinary teams composed of analysts, researchers, and engineers on long-term, open-ended projects. I am highly adaptable and committed to lifelong learning and research impact. I have demonstrated skill in designing, developing, and improving the performance and scalability of planetary data analysis tools and data product pipelines. I am continuously expanding my knowledge of the state of the art in scientific computing, and I am eager to apply this knowledge to challenging research software engineering roles.
 <p>
-    I am skilled in a variety of programming languages and technologies with a focus on Python and C++. I also have substantial domain knowledge in GIS and image processing for remote sensing applications in space missions, as well as experience working in multidisciplinary teams composed of analysts, researchers, and other developers on long-term, open-ended projects.
-</p>
-
-<p>
-    I am adaptable and continuously expanding my knowledge of the state of the art when it comes to scientific computing, and I am eager to apply this knowledge to challenging research software engineering roles.
+    
 </p>
 
 <h3>Work</h3>
@@ -45,12 +41,12 @@
     <li>
         <em>Master of Computer Science</em><br>
         Arizona State University<br>
-        Degree anticipated Fall 2024
+        December 2024
     </li>
     <li>
         <em>Bachelor of Science in Computer Science</em><br>
         Arizona State University<br>
-        Spring 2021
+        May 2021
     </li>
 </ul>
 
@@ -61,5 +57,5 @@
     <li>C++</li></li>
     <li>Data Analysis</li>
     <li>Geographic Information Systems (GIS)</li>
-    <li>SQL</li>
+    <li>Scientific Computing</li>
 </ul>
