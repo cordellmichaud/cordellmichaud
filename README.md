@@ -7,18 +7,16 @@
 
 <h3>About Me</h3>
 <p>
-    I am a detail-oriented scientific software engineer with 4+ years of experience engineering software solutions to tackle complex research problems in geographic information systems, remote sensing, and image processing for space missions.
+I am a detail-oriented research software engineer with 4+ years of experience engineering software solutions to tackle complex research problems in geographic information systems, remote sensing, and image processing for space missions.
 </p>
-    I have substantial experience working in multidisciplinary teams composed of analysts, researchers, and engineers on long-term, open-ended projects. I am highly adaptable and committed to lifelong learning and research impact. I have demonstrated skill in designing, developing, and improving the performance and scalability of planetary data analysis tools and data product pipelines. I am continuously expanding my knowledge of the state of the art in scientific computing, and I am eager to apply this knowledge to challenging research software engineering roles.
 <p>
-    
-</p>
+I have substantial experience working in multidisciplinary teams composed of analysts, researchers, and engineers on long-term, open-ended projects. I am highly adaptable and committed to lifelong learning and research impact. I have demonstrated skill in designing, developing, and improving the performance and scalability of planetary data analysis tools and data product pipelines. I am continuously expanding my knowledge of the state of the art in scientific computing, and I am eager to apply this knowledge to challenging research software engineering roles.
 
 <h3>Work</h3>
 
 <ul>
     <li>
-        <em>Software Developer</em> at <a href="https://www.intuitivemachines.com/">Intuitive Machines</a><br>
+        <em>Research Software Engineer</em> at <a href="https://www.intuitivemachines.com/">Intuitive Machines</a><br>
         Phoenix, Arizona<br>
         September 2024 - Present
     </li>
